@@ -1,0 +1,62 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "id": 0, "properties": { "name_of_bu": "RUSSIAN HILL CHIROPRACTIC", "address_of": "2041 POLK ST SAN FRANCISCO CA 94109", "cartodb_id": 18, "created_at": "2013-08-02T18:30:46Z", "updated_at": "2013-08-02T18:32:22Z", "cartodb_ge": 1 }, "geometry": { "type": "Point", "coordinates": [ -122.42198051526853, 37.795763285218491 ] } }
+,
+{ "type": "Feature", "id": 1, "properties": { "name_of_bu": "ASPECT FRAMING", "address_of": "731 POLK ST SAN FRANCISCO CA 94109", "cartodb_id": 1, "created_at": "2013-08-02T18:30:46Z", "updated_at": "2013-08-02T18:31:46Z", "cartodb_ge": 1 }, "geometry": { "type": "Point", "coordinates": [ -122.41956, 37.78374 ] } }
+,
+{ "type": "Feature", "id": 2, "properties": { "name_of_bu": "BIG APPLE", "address_of": "1650 POLK ST SAN FRANCISCO CA 94109", "cartodb_id": 2, "created_at": "2013-08-02T18:30:46Z", "updated_at": "2013-08-02T18:31:49Z", "cartodb_ge": 1 }, "geometry": { "type": "Point", "coordinates": [ -122.420770764248957, 37.791999110721434 ] } }
+,
+{ "type": "Feature", "id": 3, "properties": { "name_of_bu": "SMOKE SIGNALS", "address_of": "2223 POLK ST SAN FRANCISCO CA 94109", "cartodb_id": 19, "created_at": "2013-08-02T18:30:46Z", "updated_at": "2013-08-02T18:32:22Z", "cartodb_ge": 1 }, "geometry": { "type": "Point", "coordinates": [ -122.422331761265283, 37.797196314727522 ] } }
+,
+{ "type": "Feature", "id": 4, "properties": { "name_of_bu": "BOB'S DONUTS", "address_of": "1621 POLK ST SAN FRANCISCO CA 94109", "cartodb_id": 3, "created_at": "2013-08-02T18:30:46Z", "updated_at": "2013-08-02T18:31:51Z", "cartodb_ge": 1 }, "geometry": { "type": "Point", "coordinates": [ -122.421159647668063, 37.791730110899849 ] } }
+,
+{ "type": "Feature", "id": 5, "properties": { "name_of_bu": "BOW WOW MEOW", "address_of": "2150 POLK STREET SAN FRANCISCO CA 94109", "cartodb_id": 4, "created_at": "2013-08-02T18:30:46Z", "updated_at": "2013-08-02T18:31:56Z", "cartodb_ge": 1 }, "geometry": { "type": "Point", "coordinates": [ -122.421484854862612, 37.796452528572885 ] } }
+,
+{ "type": "Feature", "id": 6, "properties": { "name_of_bu": "THE CANDY STORE", "address_of": "1507 VALLEJO ST SAN FRANCISCO CA 94109", "cartodb_id": 20, "created_at": "2013-08-02T18:30:46Z", "updated_at": "2013-08-02T18:32:24Z", "cartodb_ge": 1 }, "geometry": { "type": "Point", "coordinates": [ -122.42242076554362, 37.796713150910975 ] } }
+,
+{ "type": "Feature", "id": 7, "properties": { "name_of_bu": "BROWNIE'S HARDWARE", "address_of": "1563 POLK ST SAN FRANCISCO CA 94109", "cartodb_id": 5, "created_at": "2013-08-02T18:30:46Z", "updated_at": "2013-08-02T18:31:57Z", "cartodb_ge": 1 }, "geometry": { "type": "Point", "coordinates": [ -122.421036794688803, 37.791226166859566 ] } }
+,
+{ "type": "Feature", "id": 8, "properties": { "name_of_bu": "CHEESE PLUS", "address_of": "2001 POLK ST SAN FRANCISCO CA 94109", "cartodb_id": 6, "created_at": "2013-08-02T18:30:46Z", "updated_at": "2013-08-02T18:32:01Z", "cartodb_ge": 1 }, "geometry": { "type": "Point", "coordinates": [ -122.421911845814435, 37.79516532281896 ] } }
+,
+{ "type": "Feature", "id": 9, "properties": { "name_of_bu": "THE BELL TOWER", "address_of": "1900 POLK ST SAN FRANCISCO CA 94109", "cartodb_id": 21, "created_at": "2013-08-02T18:30:46Z", "updated_at": "2013-08-02T18:32:25Z", "cartodb_ge": 1 }, "geometry": { "type": "Point", "coordinates": [ -122.421152205311159, 37.794503290810802 ] } }
+,
+{ "type": "Feature", "id": 10, "properties": { "name_of_bu": "FLIPP", "address_of": "1400 GREEN ST SAN FRANCISCO CA 94109", "cartodb_id": 7, "created_at": "2013-08-02T18:30:46Z", "updated_at": "2013-08-02T18:32:04Z", "cartodb_ge": 1 }, "geometry": { "type": "Point", "coordinates": [ -122.422447353626566, 37.798014899857243 ] } }
+,
+{ "type": "Feature", "id": 11, "properties": { "name_of_bu": "INTERIOR VISIONS", "address_of": "2206 POLK ST SAN FRANCISCO CA 94109", "cartodb_id": 8, "created_at": "2013-08-02T18:30:46Z", "updated_at": "2013-08-02T18:32:07Z", "cartodb_ge": 1 }, "geometry": { "type": "Point", "coordinates": [ -122.421632221032695, 37.797089890852298 ] } }
+,
+{ "type": "Feature", "id": 12, "properties": { "name_of_bu": "VELVET DA VINCI", "address_of": "2015 POLK ST SAN FRANCISCO CA 94109", "cartodb_id": 22, "created_at": "2013-08-02T18:30:46Z", "updated_at": "2013-08-02T18:32:26Z", "cartodb_ge": 1 }, "geometry": { "type": "Point", "coordinates": [ -122.421875500647332, 37.795427069276563 ] } }
+,
+{ "type": "Feature", "id": 13, "properties": { "name_of_bu": "LOTTA'S BAKERY", "address_of": "1720 POLK ST SAN FRANCISCO CA 94109", "cartodb_id": 9, "created_at": "2013-08-02T18:30:46Z", "updated_at": "2013-08-02T18:32:09Z", "cartodb_ge": 1 }, "geometry": { "type": "Point", "coordinates": [ -122.420656969560156, 37.79265669288629 ] } }
+,
+{ "type": "Feature", "id": 14, "properties": { "name_of_bu": "LOVING CUP", "address_of": "2356 POLK ST SAN FRANCISCO CA 94109", "cartodb_id": 10, "created_at": "2013-08-02T18:30:46Z", "updated_at": "2013-08-02T18:32:11Z", "cartodb_ge": 1 }, "geometry": { "type": "Point", "coordinates": [ -122.42205, 37.79863 ] } }
+,
+{ "type": "Feature", "id": 15, "properties": { "name_of_bu": "MILLER'S DELI", "address_of": "1725 POLK ST SAN FRANCISCO CA 94109", "cartodb_id": 11, "created_at": "2013-08-02T18:30:46Z", "updated_at": "2013-08-02T18:32:13Z", "cartodb_ge": 1 }, "geometry": { "type": "Point", "coordinates": [ -122.421393206605813, 37.792805440863567 ] } }
+,
+{ "type": "Feature", "id": 16, "properties": { "name_of_bu": "NEW INDIA BAZAAR", "address_of": "1107 POLK ST SAN FRANCISCO CA 94109", "cartodb_id": 12, "created_at": "2013-08-02T18:30:46Z", "updated_at": "2013-08-02T18:32:14Z", "cartodb_ge": 1 }, "geometry": { "type": "Point", "coordinates": [ -122.420140941709548, 37.787041756683756 ] } }
+,
+{ "type": "Feature", "id": 17, "properties": { "name_of_bu": "NICK'S CRISPY TACOS", "address_of": "2109 POLK ST SAN FRANCISCO CA 94109", "cartodb_id": 13, "created_at": "2013-08-02T18:30:46Z", "updated_at": "2013-08-02T18:32:15Z", "cartodb_ge": 1 }, "geometry": { "type": "Point", "coordinates": [ -122.422062441062266, 37.796149892175897 ] } }
+,
+{ "type": "Feature", "id": 18, "properties": { "name_of_bu": "ONE HALF", "address_of": "1837 POLK ST SAN FRANCISCO CA 94109", "cartodb_id": 14, "created_at": "2013-08-02T18:30:46Z", "updated_at": "2013-08-02T18:32:16Z", "cartodb_ge": 1 }, "geometry": { "type": "Point", "coordinates": [ -122.421599059585049, 37.793783438063961 ] } }
+,
+{ "type": "Feature", "id": 19, "properties": { "name_of_bu": "PICNIC", "address_of": "1806-08 POLK ST SAN FRANCISCO CA 94109", "cartodb_id": 15, "created_at": "2013-08-02T18:30:46Z", "updated_at": "2013-08-02T18:32:17Z", "cartodb_ge": 1 }, "geometry": { "type": "Point", "coordinates": [ -122.421087323186711, 37.793589603275208 ] } }
+,
+{ "type": "Feature", "id": 20, "properties": { "name_of_bu": "POLK STREET FLORIST", "address_of": "1718 POLK ST SAN FRANCISCO CA 94109", "cartodb_id": 16, "created_at": "2013-08-02T18:30:46Z", "updated_at": "2013-08-02T18:32:19Z", "cartodb_ge": 1 }, "geometry": { "type": "Point", "coordinates": [ -122.42078079339413, 37.79297693642296 ] } }
+,
+{ "type": "Feature", "id": 21, "properties": { "name_of_bu": "RUSSIAN HILL BOOKSTORE", "address_of": "2234 POLK ST SAN FRANCISCO CA 94109", "cartodb_id": 17, "created_at": "2013-08-02T18:30:46Z", "updated_at": "2013-08-02T18:32:21Z", "cartodb_ge": 1 }, "geometry": { "type": "Point", "coordinates": [ -122.421634411819852, 37.797574212461996 ] } }
+,
+{ "type": "Feature", "id": 22, "properties": { "name_of_bu": "The Bagelry", "address_of": "2139 Polk St, San Francisco", "cartodb_id": null, "created_at": null, "updated_at": null, "cartodb_ge": null }, "geometry": { "type": "Point", "coordinates": [ -122.422404605941452, 37.796396790767822 ] } }
+,
+{ "type": "Feature", "id": 23, "properties": { "name_of_bu": "HIURA & HIURA OPTOMETRISTS", "address_of": "1418 POLK ST SF CA 94109", "cartodb_id": null, "created_at": null, "updated_at": null, "cartodb_ge": null }, "geometry": { "type": "Point", "coordinates": [ -122.420327865659161, 37.790082952277636 ] } }
+,
+{ "type": "Feature", "id": 24, "properties": { "name_of_bu": "The Crepe House", "address_of": "1755 POLK ST SF 94109", "cartodb_id": null, "created_at": null, "updated_at": null, "cartodb_ge": null }, "geometry": { "type": "Point", "coordinates": [ -122.421453427186222, 37.793127191765947 ] } }
+,
+{ "type": "Feature", "id": 25, "properties": { "name_of_bu": "Royal Liquors", "address_of": "1400 Polk St San Francisco", "cartodb_id": null, "created_at": null, "updated_at": null, "cartodb_ge": null }, "geometry": { "type": "Point", "coordinates": [ -122.420232747783672, 37.789819863932905 ] } }
+,
+{ "type": "Feature", "id": 26, "properties": { "name_of_bu": "Swan Oyster Depot", "address_of": "1517 Polk St\nSan Francisco, CA 94109", "cartodb_id": null, "created_at": null, "updated_at": null, "cartodb_ge": null }, "geometry": { "type": "Point", "coordinates": [ -122.420946131850087, 37.790872211595953 ] } }
+,
+{ "type": "Feature", "id": 27, "properties": { "name_of_bu": "Zee Continental Jewelery", "address_of": "1546 Polk St\nSan Francisco, CA 94109", "cartodb_id": null, "created_at": null, "updated_at": null, "cartodb_ge": null }, "geometry": { "type": "Point", "coordinates": [ -122.42067975473843, 37.791399162002648 ] } }
+
+]
+}
