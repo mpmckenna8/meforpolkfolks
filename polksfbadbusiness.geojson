@@ -57,6 +57,8 @@
 { "type": "Feature", "id": 26, "properties": { "name_of_bu": "Swan Oyster Depot", "address_of": "1517 Polk St\nSan Francisco, CA 94109", "cartodb_id": null, "created_at": null, "updated_at": null, "cartodb_ge": null }, "geometry": { "type": "Point", "coordinates": [ -122.420946131850087, 37.790872211595953 ] } }
 ,
 { "type": "Feature", "id": 27, "properties": { "name_of_bu": "Zee Continental Jewelery", "address_of": "1546 Polk St\nSan Francisco, CA 94109", "cartodb_id": null, "created_at": null, "updated_at": null, "cartodb_ge": null }, "geometry": { "type": "Point", "coordinates": [ -122.42067975473843, 37.791399162002648 ] } }
+,
+{ "type": "Feature", "id": 28, "properties": { "name_of_bu": "Glammic", "address_of": "1488 Polk St, San Francisco CA", "cartodb_id": null, "created_at": null, "updated_at": null, "cartodb_ge": null }, "geometry": { "type": "Point", "coordinates": [ -122.421052023902149, 37.797218671469281 ] } }
 
 ]
 }
