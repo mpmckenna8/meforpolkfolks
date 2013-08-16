@@ -46,8 +46,6 @@
 ,
 { "type": "Feature", "id": 21, "properties": { "name_of_bu": "RUSSIAN HILL BOOKSTORE", "address_of": "2234 POLK ST SAN FRANCISCO CA 94109", "cartodb_id": 17, "created_at": "2013-08-02T18:30:46Z", "updated_at": "2013-08-02T18:32:21Z", "cartodb_ge": 1 }, "geometry": { "type": "Point", "coordinates": [ -122.421634411819852, 37.797574212461996 ] } }
 ,
-{ "type": "Feature", "id": 22, "properties": { "name_of_bu": "The Bagelry", "address_of": "2139 Polk St, San Francisco", "cartodb_id": null, "created_at": null, "updated_at": null, "cartodb_ge": null }, "geometry": { "type": "Point", "coordinates": [ -122.422404605941452, 37.796396790767822 ] } }
-,
 { "type": "Feature", "id": 23, "properties": { "name_of_bu": "HIURA & HIURA OPTOMETRISTS", "address_of": "1418 POLK ST SF CA 94109", "cartodb_id": null, "created_at": null, "updated_at": null, "cartodb_ge": null }, "geometry": { "type": "Point", "coordinates": [ -122.420327865659161, 37.790082952277636 ] } }
 ,
 { "type": "Feature", "id": 24, "properties": { "name_of_bu": "The Crepe House", "address_of": "1755 POLK ST SF 94109", "cartodb_id": null, "created_at": null, "updated_at": null, "cartodb_ge": null }, "geometry": { "type": "Point", "coordinates": [ -122.421453427186222, 37.793127191765947 ] } }
